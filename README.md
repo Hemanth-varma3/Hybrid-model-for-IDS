@@ -58,12 +58,4 @@ python ids2.py
 ## Contributing
 Feel free to open issues or submit pull requests if you want to contribute!
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any queries, reach out to **Hemanth Varma** via GitHub or email.
-
----
-Feel free to modify this README file as needed!
 
