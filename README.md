@@ -2,6 +2,7 @@
 Hybrid Intrusion Detection System (IDS)
 Overview
 This project follow out a Hybrid Intrusion Detection System (IDS) that fuse Unsupervised Anomaly Detection and Supervised Classification to enhance cybersecurity menace detection. 
+
 Features
 Anomaly Detection using:
 Isolation Forest
@@ -22,12 +23,15 @@ ROC Curve Analysis
 Explainable AI (XAI) Implementation (Upcoming):
 SHAP (SHapley Additive exPlanations)
 LIME (Local Interpretable Model-agnostic Explanations)
+
 Installation
 Ascertain you bear Python installed, and so establish the needed dependencies:
 pip install -r requirements. txt
 Usage
 Run the main script to aim and judge the IDS model:
 python ids2. py
+
+
 Project Structure
 ├── data/ # Dataset folder
 ├── models/ # Save Up aim models
@@ -35,6 +39,8 @@ Project Structure
 ├── ids2. py # Main playscript for IDS implementation
 ├── requirements. txt # Take Python dependencies
 └── README. md # Project documentation
+
+
 Results
 Model performance metrics will be lay in in results/
 Visualization plots for ROC curves and confusion intercellular substance will be saved
